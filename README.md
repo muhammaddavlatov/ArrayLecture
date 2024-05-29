@@ -15,4 +15,5 @@
 #### Destructuring is a mechanism ast ki key objecta  mekunad.
 #### Spread it is mechanism elementhoi array clon mekna
 ### That is " THIS " in JavaScript ?
-#### It is keyword ast ki 4 holat 1.show the object  2,3 show the global  4. if you put the strict mode it will show you the underfind 
+#### It is keyword ast ki 4 holat 1.show the object  2 show the global  3.show the global in function
+4. if you put the strict mode it will show you the underfind 
