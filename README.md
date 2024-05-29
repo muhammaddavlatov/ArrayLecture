@@ -1,6 +1,6 @@
 ## Object in JavaScript ?
 ### collection of properties that properties has key and value .
-### ![alt text](image.png) 
+ ![alt text](image.png) 
 #### Method of object 
 ![alt text](image-1.png)
 #### Object.entries( ) 
