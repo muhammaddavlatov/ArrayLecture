@@ -3,7 +3,8 @@
 ![image](https://github.com/muhammaddavlatov/ArrayLecture/assets/171018896/d2a9e117-8e09-4c81-839a-a714eb5305cd)
 
 #### Method of object 
-![alt text](image-1.png)
+![image](https://github.com/muhammaddavlatov/ArrayLecture/assets/171018896/9b6fc5ab-d711-4dc2-a849-f166bec99ca8)
+
 #### Object.entries( ) 
 #### It will give you the key and value in one  array
 #### Object.key( ) 
