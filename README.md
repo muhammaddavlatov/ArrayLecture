@@ -1,5 +1,5 @@
 ## Object in JavaScript ?
-### collection of properties that properties has key and value .
+### Collection of properties that properties has key and value .
 ![image](https://github.com/muhammaddavlatov/ArrayLecture/assets/171018896/d2a9e117-8e09-4c81-839a-a714eb5305cd)
 
 #### Method of object 
